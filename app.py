@@ -44,4 +44,4 @@ if st.button("🔍 Predict Stress Level"):
 
 # Optional footer
 st.markdown("---")
-st.caption("Developed by Akanksha | Student Stress Analysis Project 💻")
+st.caption("Developed by Akanksha Amale | Student Stress Analysis Project 💻")
