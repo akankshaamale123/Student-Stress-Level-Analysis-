@@ -46,6 +46,7 @@ Visualizations performed:
 - High academic load → higher stress probability.
 - More sleep → lower stress levels.
 - Physical activity significantly reduces stress risk.
+
   
 
 🤖 Machine Learning Models Used
@@ -56,6 +57,7 @@ Visualizations performed:
 | Decision Tree       | Non-linear    | 🌿 Moderate       | Handles non-linearity                |
 | Random Forest       | Ensemble      | 🏆 Excellent      | Robust & accurate                    |
 | Stacking Classifier | Meta Ensemble | 💡 Best Performer | Combines multiple models effectively |
+
 
 
 🧮 Evaluation Metrics
@@ -73,12 +75,14 @@ Visualizations performed:
 - The Stacking Classifier achieved the highest accuracy (~95%).
 - Balanced recall across all stress levels.
 - Feature importance shows sleep hours and academic performance as key predictors.
+  
 
 📊 Example Model Accuracy:
 - Logistic Regression → 82%
 - Decision Tree → 85%
 - Random Forest → 92%
 - Stacking Classifier → 95%
+  
 
 
 💻 Tech Stack
@@ -105,12 +109,15 @@ pip install -r requirements.txt
 jupyter notebook Project Student Stress.ipynb
 
 
+
 🔮 Future Enhancements
 
 - Integrate SHAP/LIME for model explainability.
 - Build an analytics dashboard to visualize patterns.
 - Collect more real-world student survey data.
 - Enhance the UI with charts and recommendations.
+  
+  
 
 👩‍💻 Author
 
@@ -118,6 +125,8 @@ Akanksha Amale
 Data Science & Machine Learning Enthusiast
 💬 Passionate about using data to understand human behavior and mental well-being.
 
+
 📧 Contact: akankshaamale@gmail.com
+
 
 🌈 "Smart predictions for a healthier, balanced student life."
